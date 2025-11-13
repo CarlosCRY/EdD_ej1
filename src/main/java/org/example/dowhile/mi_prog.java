@@ -50,5 +50,4 @@ public class mi_prog {
         } while (option != 4);
         // Indentación corregida usando CTRL + ALT + L
     }
-    // que cohone
 }
